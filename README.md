@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm ACHRAF EL MASOUDI</h1>
-<h3 align="center">Software Engineer | Android Developer</h3>
+<h3 align="center">Software Engineer | Android Developer | Data Scientist | ML Engineer</h3>
 <h4 align="center">Unleashing Innovation, One Byte at a Time!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achelmasoudi&label=Profile%20views&color=0e75b6&style=flat" alt="achelmasoudi" /> </p>
